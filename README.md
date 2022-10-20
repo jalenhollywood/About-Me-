@@ -1,2 +1,6 @@
-# About-Me-
-My Midterm Project
+<!DOCTYPE html>
+<html>
+
+<head>
+ <title>About Jalen Hollywood</title>
+</head>
